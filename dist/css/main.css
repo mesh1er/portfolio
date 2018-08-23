@@ -270,7 +270,7 @@ main {
     height: 25vh;
     transform: translate3d(100%, 0, 0); }
     .menu-branding .portrait {
-      background: url(../img/cobo_small.jpg);
+      background: url(../img/sam_sm2.jpg);
       width: 150px;
       height: 150px; }
   .about-info {
@@ -286,6 +286,9 @@ main {
       margin-top: 10vh; }
     main .lg-heading {
       margin-top: 1rem;
-      font-size: 5rem; }
+      font-size: 4rem; }
+    main .upper {
+      margin-top: 1rem;
+      font-size: 6rem; }
   .projects {
     grid-template-columns: 1fr; } }

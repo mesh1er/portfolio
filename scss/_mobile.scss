@@ -41,7 +41,7 @@
     transform: translate3d(100%, 0, 0);
 
     .portrait {
-      background: url(../img/cobo_small.jpg);
+      background: url(../img/sam_sm2.jpg);
       width: 150px;
       height: 150px;
     }
@@ -73,7 +73,12 @@
 
     .lg-heading {
       margin-top: 1rem;
-      font-size: 5rem;
+      font-size: 4rem;
+    }
+
+    .upper {
+      margin-top: 1rem;
+      font-size: 6rem;
     }
   }
 
